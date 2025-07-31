@@ -62,4 +62,7 @@ class DBHelper {
 
     return db.query("note");
   }
+
+  ///update
+  ///delete
 }
